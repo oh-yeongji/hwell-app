@@ -11,7 +11,6 @@ import { NaverMap } from '@/types/map';
 const MapScene = () => {
   const { initializeMap } = useMap();
   const onLoadMap = (map: NaverMap) => {
-    console.log('로드완료');
     initializeMap(map);
   };
   return (
