@@ -20,5 +20,9 @@ export default {
       name: 'naver-site-verification',
       content: '7e3451bb26764fe4c4554761fb008f1d4dd1e4c8',
     },
+    {
+      name: 'google-site-verification',
+      content: 'Ih3aa6fbB1D5IwHdfOrDMJBRIUiouRh0TuUUd1v-26E',
+    },
   ],
 };
